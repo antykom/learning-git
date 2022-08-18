@@ -1,3 +1,4 @@
 Hello, testing git
 Lekkie zmiany w pliku. Może to coś da innym
 Dalej testujemy!!!!
+Ale teraz robimy to lokalnie
